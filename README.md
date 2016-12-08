@@ -1,3 +1,3 @@
-Hi all, I am Deepak and i am new to github!--changes done in main branch
+Hi all, I am Deepak and i am new to github!
 # hello-world
-second change to readme into new branch
+2nd changes the done into readme-edit branch
