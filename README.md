@@ -1,2 +1,2 @@
-Hi all, I am Deepak and i am new to Githup!
+Hi all, I am Deepak and i am new to github!
 # hello-world
